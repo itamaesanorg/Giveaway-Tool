@@ -8,7 +8,7 @@
         │   ├── foundation.min.css
         │   └── normalize.css
         ├── img
-        │   ├── bg-noise-orange.png
+        │   ├── bg-noise.png
         │   ├── header-bg.png
         │   └── logo.png
         ├── index.html
