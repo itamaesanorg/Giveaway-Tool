@@ -1,0 +1,24 @@
+{
+  "name": "sorteo",
+  "version": "0.0.1",
+  "description": "Sorteo package allows you to do giveaways without the need of paying for an external app. Just list people and do the giveaway. It is written on HTML and js by ITAMAESAN.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itamaesanorg/Giveaway-Tool.git"
+  },
+  "keywords": [
+    "giveaway",
+    "HTML",
+    "js",
+    "instagram",
+    "sorteos",
+    "list"
+  ],
+  "author": "ITAMAESAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itamaesanorg/Giveaway-Tool/issues"
+  },
+  "homepage": "https://giveawaytool.sushijs.com"
+}
